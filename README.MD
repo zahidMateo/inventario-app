@@ -31,7 +31,7 @@ inventario/
 
 
 1. **Abrir el proyecto**  
-   Abre la carpeta del backend en tu IDE favorito (Visual Studio, VS Code, Rider, etc.).
+   Abre la carpeta del backend en tu IDE favorito (Se recomiendo visual studio 2022).
 
 2. **Configurar la conexión a la base de datos**  
    - Abre el archivo `appsettings.json` o el archivo de configuración correspondiente.  
